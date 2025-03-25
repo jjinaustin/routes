@@ -1,0 +1,1 @@
+{"type": "Feature", "properties": {"name": "Sauerland Mountain Circuit", "distance": 97.95179300000001, "time": 1.9946741666666667, "elevation_gain": 1589.3447265625, "terrain": "mixed", "created": "2025-03-25T12:47:20.492957"}, "geometry": {"type": "LineString", "coordinates": [[8.5232, 51.305], [8.4873, 51.1619], [8.2941, 51.0658], [8.0214, 50.8714]]}}
