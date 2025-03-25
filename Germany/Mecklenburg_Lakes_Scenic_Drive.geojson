@@ -1,0 +1,1 @@
+{"type": "Feature", "properties": {"name": "Mecklenburg Lakes Scenic Drive", "distance": 235.283125, "time": 4.534290277777778, "elevation_gain": 1353.7098388671875, "terrain": "mixed", "created": "2025-03-25T12:53:53.550700"}, "geometry": {"type": "LineString", "coordinates": [[13.7059, 53.6319], [12.8318, 53.3765], [12.6128, 53.4903], [13.7059, 53.6319]]}}
