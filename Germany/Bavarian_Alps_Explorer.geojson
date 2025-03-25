@@ -1,0 +1,1 @@
+{"type": "Feature", "properties": {"name": "Bavarian Alps Explorer", "distance": 119.56139999999999, "time": 2.1781822222222225, "elevation_gain": 2334.962646484375, "terrain": "mixed", "created": "2025-03-25T12:47:12.405536"}, "geometry": {"type": "LineString", "coordinates": [[11.095, 47.4919], [10.9858, 47.4213], [11.3478, 47.5594], [11.1808, 47.6911]]}}
