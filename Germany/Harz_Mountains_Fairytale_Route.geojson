@@ -1,0 +1,1 @@
+{"type": "Feature", "properties": {"name": "Harz Mountains Fairytale Route", "distance": 201.448357, "time": 3.4226602777777777, "elevation_gain": 2750.3272094726562, "terrain": "mixed", "created": "2025-03-25T12:53:47.561212"}, "geometry": {"type": "LineString", "coordinates": [[10.5268, 52.2689], [10.6146, 51.7895], [10.3402, 51.7974], [10.5268, 52.2689]]}}
