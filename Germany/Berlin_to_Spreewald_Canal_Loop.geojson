@@ -1,1 +1,0 @@
-{"type": "Feature", "properties": {"name": "Berlin to Spreewald Canal Loop", "distance": 199.917386, "time": 2.8416791666666668, "elevation_gain": 995.4407958984375, "terrain": "mixed", "created": "2025-03-25T12:53:51.439788"}, "geometry": {"type": "LineString", "coordinates": [[13.405, 52.52], [14.0365, 51.9425], [14.0654, 52.0315], [13.405, 52.52]]}}

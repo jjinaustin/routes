@@ -1,1 +1,0 @@
-{"type": "Feature", "properties": {"name": "Thuringian Forest Traverse", "distance": 97.019399, "time": 1.7592683333333334, "elevation_gain": 1328.0679931640625, "terrain": "more asphalt", "created": "2025-03-31T22:15:20.840683"}, "geometry": {"type": "LineString", "coordinates": [[10.4525, 50.7249], [10.6902, 50.6528], [10.9243, 50.6681], [11.3284, 50.7135]]}}
