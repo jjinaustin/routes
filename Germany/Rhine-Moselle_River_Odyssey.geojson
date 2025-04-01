@@ -1,0 +1,1 @@
+{"type": "Feature", "properties": {"name": "Rhine-Moselle River Odyssey", "distance": 267.568805, "time": 3.218130277777778, "elevation_gain": 3982.4677734375, "terrain": "more asphalt", "created": "2025-04-01T10:33:52.238187"}, "geometry": {"type": "LineString", "coordinates": [[8.2473, 49.9928], [7.7283, 50.1077], [7.6025, 50.3183], [7.0181, 49.9731], [6.5092, 49.7547]]}}
